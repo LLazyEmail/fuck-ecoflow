@@ -1,4 +1,8 @@
 # Моя зброя розум. Мій дух сталевий. Мій код ПЕРЕМОГА. 
+
+<!-- fork-status -->
+> **Fork note:** This is the [LLazyEmail/fuck-ecoflow](https://github.com/LLazyEmail/fuck-ecoflow) working fork of [atherdon/fuck-ecoflow](https://github.com/atherdon/fuck-ecoflow). Prefer draft PRs against this fork's `main`. Never commit API keys.
+
 # Я Інтелект. Я Система.
 # Слава Україні!
 
