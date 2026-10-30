@@ -24,3 +24,15 @@ Below are the images that live in docs/images so you can view them directly from
 
 ### Simple schema whiteboard
 <a href="static/img/simple-schema-whiteboard.png"><img src="static/img/simple-schema-whiteboard.png" width="360" alt="Simple schema whiteboard" /></a>
+
+
+## Git LFS
+
+Many images and videos are stored with **Git LFS**. Without `git lfs pull`, files may be tiny pointer stubs and the site will show broken media (build may still succeed with warnings).
+
+```bash
+git lfs install
+git lfs pull
+```
+
+If LFS objects 404, ask a maintainer to restore the binaries — do not invent replacements in PRs.
