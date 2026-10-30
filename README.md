@@ -51,3 +51,13 @@ Node.js **>= 20**. See [AGENTS.md](./AGENTS.md) once added.
 | `npm run check:naming` | Naming conventions |
 | `npm run optimize:media` | Optimize doc media (sharp) |
 
+## Git LFS
+
+Many images and videos are stored with **Git LFS**. Without `git lfs pull`, files may be tiny pointer stubs and the site will show broken media (build may still succeed with warnings).
+
+```bash
+git lfs install
+git lfs pull
+```
+
+If LFS objects 404, ask a maintainer to restore the binaries — do not invent replacements in PRs.
