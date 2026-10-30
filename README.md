@@ -24,3 +24,30 @@ Below are the images that live in docs/images so you can view them directly from
 
 ### Simple schema whiteboard
 <a href="static/img/simple-schema-whiteboard.png"><img src="static/img/simple-schema-whiteboard.png" width="360" alt="Simple schema whiteboard" /></a>
+
+
+## Setup (docs site)
+
+This repository is a **Docusaurus** documentation site (fork: [LLazyEmail/fuck-ecoflow](https://github.com/LLazyEmail/fuck-ecoflow)).
+
+```bash
+# Media uses Git LFS — install git-lfs before clone/pull for full images
+git lfs install
+npm install
+npm start
+npm run build
+npm run serve
+```
+
+Node.js **>= 20**. See [AGENTS.md](./AGENTS.md) once added.
+
+### Scripts
+
+| Command | Description |
+| --- | --- |
+| `npm start` | Dev server |
+| `npm run build` | Production build |
+| `npm run check:media` | Media guardrails |
+| `npm run check:naming` | Naming conventions |
+| `npm run optimize:media` | Optimize doc media (sharp) |
+
