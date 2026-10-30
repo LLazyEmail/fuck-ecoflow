@@ -17,6 +17,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v7
         with:
+          lfs: true
           fetch-depth: 0
 
       - name: Set up Node.js
