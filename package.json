@@ -14,7 +14,9 @@
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
-    "write-heading-ids": "docusaurus write-heading-ids"
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "ci": "npm run check:naming && npm run check:media && npm run build",
+    "test": "npm run check:naming && npm run check:media"
   },
   "dependencies": {
     "@docusaurus/core": "^3.1.1",
