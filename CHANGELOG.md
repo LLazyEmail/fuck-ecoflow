@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: adopt documentation-actions npm-script-check (media guardrails) [`#57`](https://github.com/LLazyEmail/fuck-ecoflow/pull/57)
 - ci: adopt documentation-actions npm-script-check (naming conventions) [`#58`](https://github.com/LLazyEmail/fuck-ecoflow/pull/58)
 - ci: adopt documentation-actions changelog [`#17`](https://github.com/LLazyEmail/fuck-ecoflow/pull/17)
 - ci: adopt documentation-actions lychee link-check [`#11`](https://github.com/LLazyEmail/fuck-ecoflow/pull/11)
@@ -326,6 +327,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create english.md [`6c257dc`](https://github.com/LLazyEmail/fuck-ecoflow/commit/6c257dc886575fd285b7068458564fe9ece71deb)
 - Add files via upload [`a9bd217`](https://github.com/LLazyEmail/fuck-ecoflow/commit/a9bd2174bd51816eb2320560427aa241bcec5086)
 - Add files via upload [`461c529`](https://github.com/LLazyEmail/fuck-ecoflow/commit/461c529e51f411a1c4f403261898f92cd77d8a3b)
+- ci: adopt documentation-actions npm-script-check for media guardrails [`f46c9fa`](https://github.com/LLazyEmail/fuck-ecoflow/commit/f46c9fa2d2bd74f10ef5f91ff03b12bc221fd333)
 - ci: adopt documentation-actions npm-script-check for naming conventions [`a3bff34`](https://github.com/LLazyEmail/fuck-ecoflow/commit/a3bff34c829c8505db579d66bd88a88aa5450181)
 - Format and improve README into readable Markdown with cost breakdown and notes [`fb47fc3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/fb47fc31d9933e18efa2c75a27b132c41746e944)
 - Create кріс.md [`7aad9b8`](https://github.com/LLazyEmail/fuck-ecoflow/commit/7aad9b8102b1b22145248441f999105c5329eed8)
@@ -569,6 +571,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Update Oksana-Titova.md [`c5b7443`](https://github.com/LLazyEmail/fuck-ecoflow/commit/c5b74437ad8ec280c6f40885b86a8b2e4a3de4fe)
 - Update link in intro.md to include 'telegram' [`8a6fdf0`](https://github.com/LLazyEmail/fuck-ecoflow/commit/8a6fdf06048c072e182f3804771f4d09c8f682fd)
 - Update readme to remove sensitive information [`a78c28d`](https://github.com/LLazyEmail/fuck-ecoflow/commit/a78c28dbe5a930416b9762143f8aca2e1da6907b)
+- chore(changelog): regenerate after merged pull request [`1f8ce06`](https://github.com/LLazyEmail/fuck-ecoflow/commit/1f8ce067adcdd5a5664be39a2cf131fafaf79328)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/competitors/steel-hornets/222/IMG_20260621_233121_089.jpg [`1fe6ba0`](https://github.com/LLazyEmail/fuck-ecoflow/commit/1fe6ba030a840dcf0f71bd3bbf0221cd02bb6c21)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/assets/logo3.png [`eb4b0b0`](https://github.com/LLazyEmail/fuck-ecoflow/commit/eb4b0b06bb95e3bf21086684a63e6435d422d079)
 - Delete docs/01-outsourcing-engineering/AssemBLYA/assets/logo2.png [`973c692`](https://github.com/LLazyEmail/fuck-ecoflow/commit/973c692f8c3dadd9f33b18def74048c89a58560b)
