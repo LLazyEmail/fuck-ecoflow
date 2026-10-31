@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Merged
 
+- ci: adopt documentation-actions npm-script-check (naming conventions) [`#58`](https://github.com/LLazyEmail/fuck-ecoflow/pull/58)
 - ci: adopt documentation-actions changelog [`#17`](https://github.com/LLazyEmail/fuck-ecoflow/pull/17)
 - ci: adopt documentation-actions lychee link-check [`#11`](https://github.com/LLazyEmail/fuck-ecoflow/pull/11)
 - docs: document EcoFlow API env vars without committing secrets [`#29`](https://github.com/LLazyEmail/fuck-ecoflow/pull/29)
@@ -82,6 +83,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add files via upload [`96f7ff9`](https://github.com/LLazyEmail/fuck-ecoflow/commit/96f7ff9f7bd83ab55e69b45603c6d2ef43ae72ad)
 - Add files via upload [`76e9953`](https://github.com/LLazyEmail/fuck-ecoflow/commit/76e9953021276e086fbae3bbdfd56d381bd3d9f8)
 - Sync cleanup PR with current main [`e2547c4`](https://github.com/LLazyEmail/fuck-ecoflow/commit/e2547c48a3fd290c6b8fa6761d2fecfd58dc5629)
+- chore(changelog): regenerate after merged pull request [`1e04540`](https://github.com/LLazyEmail/fuck-ecoflow/commit/1e045404e8b7f9e0992db93af974c9d4b4ea9e5a)
 - 111 [`2a1fd02`](https://github.com/LLazyEmail/fuck-ecoflow/commit/2a1fd026edc693dbf8b960d754f2bccabd9b1766)
 - 111 [`93a0789`](https://github.com/LLazyEmail/fuck-ecoflow/commit/93a0789bd4b7f565b2d19c613dc2111e9e3f9783)
 - Add files via upload [`05028d1`](https://github.com/LLazyEmail/fuck-ecoflow/commit/05028d1932773efab1c835424ec9a8dd58561758)
@@ -324,6 +326,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Create english.md [`6c257dc`](https://github.com/LLazyEmail/fuck-ecoflow/commit/6c257dc886575fd285b7068458564fe9ece71deb)
 - Add files via upload [`a9bd217`](https://github.com/LLazyEmail/fuck-ecoflow/commit/a9bd2174bd51816eb2320560427aa241bcec5086)
 - Add files via upload [`461c529`](https://github.com/LLazyEmail/fuck-ecoflow/commit/461c529e51f411a1c4f403261898f92cd77d8a3b)
+- ci: adopt documentation-actions npm-script-check for naming conventions [`a3bff34`](https://github.com/LLazyEmail/fuck-ecoflow/commit/a3bff34c829c8505db579d66bd88a88aa5450181)
 - Format and improve README into readable Markdown with cost breakdown and notes [`fb47fc3`](https://github.com/LLazyEmail/fuck-ecoflow/commit/fb47fc31d9933e18efa2c75a27b132c41746e944)
 - Create кріс.md [`7aad9b8`](https://github.com/LLazyEmail/fuck-ecoflow/commit/7aad9b8102b1b22145248441f999105c5329eed8)
 - 111 [`707f1c2`](https://github.com/LLazyEmail/fuck-ecoflow/commit/707f1c2eca8d9d52179dcd5048bccc96a16ae726)
